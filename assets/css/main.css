@@ -42,7 +42,7 @@ a:hover {
 }
 
 .repeating-background {
-    background: url(/assets/img/rhynio-Branding.png);
+    background: url(https://cdn.jsdelivr.net/gh/DPM97/rhyno-assets@main/assets/img/rhynio-Branding.png);
     color: white;
     height: 130px;
     background-position: center;
@@ -50,7 +50,7 @@ a:hover {
 }
 
 .repeating-particle {
-    background: url(/assets/img/pattern.png);
+    background: url(https://cdn.jsdelivr.net/gh/DPM97/rhyno-assets@main/assets/img/pattern.png);
     background-size: 100px;
     background-repeat: repeat;
 }
